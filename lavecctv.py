@@ -75,5 +75,3 @@ def  filtering ( pilih ):
 
 jika  __name__  ==  '__main__' :
     utama ()
-    
-    <Thanks For Laveyik>
